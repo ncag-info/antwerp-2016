@@ -3,114 +3,19 @@ layout: default
 ---
 
 <h2>Programme</h2>
-<h3>Monday, September 19th</h3>
+{% for day in site.data.schedule %}
+<h3>{{ day.date }}</h3>
 <dl class="schedule">
-  <dt>09:00&ndash;10:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>10:15&ndash;11:15
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>11:30&ndash;12:30
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>14:00&ndash;15:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
+  {% for slot in day.slots %}
+    <dt>{{ slot.time }}
+    {% if slot.talk %}
+      {% assign talk = site.data.talks[slot.talk] %}
+      {% assign speaker = site.data.speakers[talk.speaker] %}
+      <dd class="title">{{ talk.title }}</dd>
+      <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)</dd>
+    {% else %}
+      <dd><em>to be announced</em></dd>
+    {% endif %}
+  {% endfor %}
 </dl>
-<h3>Tuesday, September 20th</h3>
-<dl class="schedule">
-  <dt>09:00&ndash;10:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>10:15&ndash;11:15
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>11:30&ndash;12:30
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>14:00&ndash;15:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-</dl>
-<h3>Wednesday, September 21th</h3>
-<dl class="schedule">
-  <dt>09:00&ndash;10:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>10:15&ndash;11:15
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>11:30&ndash;12:30
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>14:00&ndash;15:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-</dl>
-
-<h3>Thursday, September 22th</h3>
-<dl class="schedule">
-  <dt>09:00&ndash;10:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>10:15&ndash;11:15
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>11:30&ndash;12:30
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>14:00&ndash;15:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-</dl>
-
-<h3>Friday, September 23th</h3>
-<dl class="schedule">
-  <dt>09:00&ndash;10:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>10:15&ndash;11:15
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>11:30&ndash;12:30
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>14:00&ndash;15:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-</dl>
-
-<h3>Saturday, September 24th</h3>
-<dl class="schedule">
-  <dt>09:00&ndash;10:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>10:15&ndash;11:15
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>11:30&ndash;12:30
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-
-  <dt>14:00&ndash;15:00
-  <dd class="title"><span>Hochschild cohomology of projective hypersurfaces</span></dd>
-  <dd class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</dd>
-</dl>
+{% endfor %}

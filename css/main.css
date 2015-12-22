@@ -88,7 +88,7 @@ dl.schedule dd {
   margin-left: 8em;
 }
 
-dl.schedule dd.title span {
+dl.schedule dd.title {
   font-weight: bold;
 }
 
