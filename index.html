@@ -7,12 +7,16 @@ layout: default
 
 <h2>Preliminary list of speakers</h2>
 <ul class="names">
-  <li><span class="name">Jaume Alonso Fernandez</span> (<span class="affiliation">University of Antwerp</span>)
-  <li><span class="name">Johannes Becher Karim</span> (<span class="affiliation">University of Antwerp</span>)
-  <li><span class="name"><a href="http://win.ua.ac.be/~pbelmans/">Pieter Belmans</a></span> (<span class="affiliation">University of Antwerp</span>)
-  <li><span class="name">Jaume Alonso Fernandez</span> (<span class="affiliation">University of Antwerp</span>)
-  <li><span class="name">Johannes Becher Karim</span> (<span class="affiliation">University of Antwerp</span>)
-  <li><span class="name"><a href="http://win.ua.ac.be/~pbelmans/">Pieter Belmans</a></span> (<span class="affiliation">University of Antwerp</span>)
+{% for speaker in site.data.list %}
+  <li><span class="name">
+  {% if speaker.website %}
+    <a href="{{ speaker.website }}">{{ speaker.name }}</a>
+  {% else %} 
+    {{ speaker.name }}
+  {% endif %}
+  </span>
+  (<span class="affiliation">{{ speaker.affiliation }}</a>)
+{% endfor %}
 </ul>
 
 <h2>Time and venue</h2>
