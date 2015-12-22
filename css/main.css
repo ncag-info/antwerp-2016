@@ -9,6 +9,10 @@ body {
   margin-top: .5em;
 }
 
+a {
+  color: rgba(0,61,100,1);
+}
+
 header {
   background-color: rgba(0,61,100,.6);
   padding: .5em;
@@ -22,6 +26,7 @@ header h1 {
 
 header p {
   font-style: italic;
+  margin-bottom: 0;
 }
 
 
@@ -61,6 +66,7 @@ nav li:hover {
 
 
 h2 {
+  font-size: 1.3em;
 }
 
 h3 {
@@ -68,6 +74,14 @@ h3 {
 }
 
 dl.schedule {
+}
+
+dl.schedule dt {
+  height: 0;
+}
+
+dl.schedule dd {
+  margin-left: 8em;
 }
 
 dl.schedule dd.title span {
@@ -79,32 +93,31 @@ p.speaker span.name {
   font-style: italic;
 }
 
-ul#preliminary {
+ul.names {
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
-ul#preliminary li {
+ul.names li {
   padding-left: 1em;
   text-indent: -.7em;
   margin-bottom: .3em;
 }
 
-ul#preliminary li:before {
+ul.names li:before {
   content: "• ";
-  color: rgba(0,61,100,.9);
+  color: rgba(0,61,100,.5);
 }
 
-ul#preliminary span.name {
+ul.names span.name {
   font-weight: bold;
 }
 
-ul#preliminary span.name a {
-  color: black;
+ul.names span.name a {
   text-decoration: none;
 }
 
-ul#preliminary span.name a:hover {
+ul.names span.name a:hover {
   text-decoration: underline;
 }
