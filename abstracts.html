@@ -4,9 +4,13 @@ layout: default
 
 <h2>Abstracts</h2>
 
-<section>
-  <h3 class="title">Hochschild cohomology of projective hypersurfaces</h3>
-  <p class="speaker"><span class="name">Wendy Lowen</span> (<span class="affiliation">University of Antwerp</span>)</p>
-
-  <p>We compute Hochschild cohomology of projective hypersurfaces starting from the Gerstenhaber-Schack complex of the (restricted) structure sheaf. We are particularly interested in the second cohomology group and its relation with deformations. We show that a projective hypersurface is smooth if and only if the classical HKR decomposition holds for this group. In general, the first Hodge component describing scheme deformations has an interesting inner structure corresponding to the various ways in which first order deformations can be realized: deforming local multiplications, deforming restriction maps, or deforming both. We make our computations precise in the case of quartic hypersurfaces, and compute explicit dimensions in many examples.
-</section>
+{% for speaker in site.data.list %}
+  <section>
+    <h3 class="title">{% if speaker.title %} {{ speaker.title }} {% else %} <i>to be announced</i> {% endif %}</h3>
+    <p class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+    {% if speaker.abstract %}
+      <blockquote>{{ speaker.abstract }}</blockquote>
+    {% endif %}
+  </section>
+  <hr>
+{% endfor %}

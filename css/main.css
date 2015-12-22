@@ -73,6 +73,10 @@ h3 {
   color: rgba(0,0,0,.6);
 }
 
+blockquote {
+  margin: 0;
+}
+
 dl.schedule {
 }
 

@@ -12,10 +12,12 @@
   abstract: >
     We compute Hochschild cohomology of projective hypersurfaces starting from the Gerstenhaber-Schack complex of the (restricted) structure sheaf. We are particularly interested in the second cohomology group and its relation with deformations. We show that a projective hypersurface is smooth if and only if the classical HKR decomposition holds for this group. In general, the first Hodge component describing scheme deformations has an interesting inner structure corresponding to the various ways in which first order deformations can be realized: deforming local multiplications, deforming restriction maps, or deforming both. We make our computations precise in the case of quartic hypersurfaces, and compute explicit dimensions in many examples.
 
+- name: Amnon Neeman
+  affiliation: Australian National University
+
 - name: Michel Van den Bergh
   affiliation: University of Hasselt
   website: http://hardy.uhasselt.be/personal/vdbergh/Members/michel_id.html
   title: The curvature problem for formal and infinitesimal deformations
   abstract: >
-    We interpret all Maurer-Cartan elements in the formal Hochschild complex of a small dg category which is cohomologically bounded above in terms of torsion Morita deformations. This solves the "curvature problem", i.e. the phenomenon that such Maurer-Cartan elements naturally parameterize curved A_infinity deformations. In the infinitesimal setup, we show how $(n+1)$-th order curved deformations give rise to $n$-th order uncurved Morita deformations.
-
+    We interpret all Maurer-Cartan elements in the formal Hochschild complex of a small dg category which is cohomologically bounded above in terms of torsion Morita deformations. This solves the "curvature problem", i.e. the phenomenon that such Maurer-Cartan elements naturally parameterize curved $\mathrm{A}_\infty$ deformations. In the infinitesimal setup, we show how $(n+1)$-th order curved deformations give rise to $n$-th order uncurved Morita deformations.
