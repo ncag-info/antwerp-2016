@@ -1,0 +1,17 @@
+belmans:
+  title: The point variety of quantum polynomial rings,
+  speaker: belmans
+  abstract: >
+    We show that the reduced point variety of a quantum polynomial algebra is the union of specific linear subspaces in $\mathbb{P}^n$, we describe its irreducible components and give a combinatorial description of the possible configurations in small dimensions.
+
+lowen:
+  title: Hochschild cohomology of projective hypersurfaces,
+  speaker: lowen
+  abstract: >
+    We compute Hochschild cohomology of projective hypersurfaces starting from the Gerstenhaber&ndash;Schack complex of the (restricted) structure sheaf. We are particularly interested in the second cohomology group and its relation with deformations. We show that a projective hypersurface is smooth if and only if the classical HKR decomposition holds for this group. In general, the first Hodge component describing scheme deformations has an interesting inner structure corresponding to the various ways in which first order deformations can be realized: deforming local multiplications, deforming restriction maps, or deforming both. We make our computations precise in the case of quartic hypersurfaces, and compute explicit dimensions in many examples.
+
+vandenbergh: 
+  title: The curvature problem for formal and infinitesimal deformations,
+  speaker: vandenbergh 
+  abstract: >
+    We interpret all Maurer-Cartan elements in the formal Hochschild complex of a small dg category which is cohomologically bounded above in terms of torsion Morita deformations. This solves the "curvature problem", i.e. the phenomenon that such Maurer-Cartan elements naturally parameterize curved $\mathrm{A}_\infty$ deformations. In the infinitesimal setup, we show how $(n+1)$-th order curved deformations give rise to $n$-th order uncurved Morita deformations.

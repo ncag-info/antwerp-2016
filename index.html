@@ -7,7 +7,8 @@ layout: default
 
 <h2>Preliminary list of speakers</h2>
 <ul class="names">
-{% for speaker in site.data.list %}
+{% for speaker_id in site.data.speakers %}
+{% assign speaker = speaker_id[1] %}
   <li><span class="name">
   {% if speaker.website %}
     <a href="{{ speaker.website }}">{{ speaker.name }}</a>

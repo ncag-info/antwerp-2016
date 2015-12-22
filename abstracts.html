@@ -4,12 +4,14 @@ layout: default
 
 <h2>Abstracts</h2>
 
-{% for speaker in site.data.list %}
+{% for talk_id in site.data.talks %}
+{% assign talk = talk_id[1] %}
   <section>
-    <h3 class="title">{% if speaker.title %} {{ speaker.title }} {% else %} <i>to be announced</i> {% endif %}</h3>
+    <h3 class="title">{% if talk.title %} {{ talk.title }} {% else %} <i>to be announced</i> {% endif %}</h3>
+    {% assign speaker = site.data.speakers[talk.speaker] %}
     <p class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
-    {% if speaker.abstract %}
-      <blockquote>{{ speaker.abstract }}</blockquote>
+    {% if talk.abstract %}
+      <blockquote>{{ talk.abstract }}</blockquote>
     {% endif %}
   </section>
   <hr>
