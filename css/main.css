@@ -78,3 +78,33 @@ dl.schedule dd.speaker span.name,
 p.speaker span.name {
   font-style: italic;
 }
+
+ul#preliminary {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul#preliminary li {
+  padding-left: 1em;
+  text-indent: -.7em;
+  margin-bottom: .3em;
+}
+
+ul#preliminary li:before {
+  content: "• ";
+  color: rgba(0,61,100,.9);
+}
+
+ul#preliminary span.name {
+  font-weight: bold;
+}
+
+ul#preliminary span.name a {
+  color: black;
+  text-decoration: none;
+}
+
+ul#preliminary span.name a:hover {
+  text-decoration: underline;
+}
