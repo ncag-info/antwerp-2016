@@ -3,6 +3,7 @@ body {
   font-size: .9em;
   max-width: 800px;
   margin: .5em auto;
+  padding: 10px;
 }
 
 a {
@@ -12,6 +13,7 @@ a {
 header {
   background-color: rgba(0,61,100,.6);
   padding: .5em;
+  margin: -10px;
 }
 
 header h1 {
@@ -27,6 +29,7 @@ header p {
 
 
 nav {
+  margin: -10px;
   font-size: 1em;
   background-color: rgba(126,0,47,.6);
 }
