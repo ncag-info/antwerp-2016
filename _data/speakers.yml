@@ -1,18 +1,4 @@
-belmans:
-  name: Pieter Belmans
-  affiliation: University of Antwerp
-  title: The point variety of quantum polynomial rings 
-
-lowen:
-  name: Wendy Lowen
-  affiliation: University of Antwerp
-  website: http://win.ua.ac.be/~wlowen/welcome.html
-
 neeman:
   name: Amnon Neeman
   affiliation: Australian National University
-
-vandenbergh:
-  name: Michel Van den Bergh
-  affiliation: University of Hasselt
-  website: http://hardy.uhasselt.be/personal/vdbergh/Members/michel_id.html
+  website: http://maths-people.anu.edu.au/~neeman/
