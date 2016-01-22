@@ -3,7 +3,18 @@ layout: default
 ---
 
 <h2>Description</h2>
-<p>...
+The aim of the conference is to bring together experts and graduate students/postdocs working in various modern approaches to geometry. Example topics would be:
+<ul>
+  <li>derived algebraic / symplectic geometry
+  <li>derived minimal model program
+  <li>homological projective duality
+  <li>homological mirror symmetry
+  <li>stability conditions
+  <li>non-commutative motives / non-commutative (co)homology theories
+  <li>generalizations of derived categories / cDG-categories / matrix factorizations
+  <li>operads / graph complexes / deformation theory
+  <li>non-commutative versions of classical varieties (del Pezzo, tori, K3, ...)
+</ul>
 
 <h2>List of speakers</h2>
 <p>The list is still incomplete.
@@ -17,12 +28,15 @@ layout: default
     {{ speaker.name }}
   {% endif %}
   </span>
+  {% if speaker.tbc %}
+    (to be confirmed)
+  {% endif %}
   (<span class="affiliation">{{ speaker.affiliation }}</span>)
 {% endfor %}
 </ul>
 
 <h2>Time and venue</h2>
-<p>The conference starts on Monday, September 19 in the morning and ends on Saturday, September 24 in the evening.
+<p>The conference starts on Monday, September 19 in the morning and ends on Saturday, September 24 at noon.
 <p>Talks will take place in building G, on campus Middelheim (<a href=https://www.uantwerpen.be/en/campus-life/on-your-way-to-campus/campus-middelheim/">directions</a>).
 
 <h2>Financial support</h2>
