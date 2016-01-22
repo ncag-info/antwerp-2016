@@ -1,4 +1,90 @@
+balmer:
+  name: Paul Balmer
+  affiliation: UCLA
+  website: http://www.math.ucla.edu/~balmer/ 
+  tbc: true
+
+bondal:
+  name: Alexey Bondal
+  affiliation: Steklov
+
+calaque:
+  name: Damien Calaque
+  affiliation: Université de Montpellier
+  website: http://www.math.univ-montp2.fr/~calaque/
+
+gasparim:
+  name: Elizabeth Gasparim
+  affiliation: Universidade Estadual de Campinas
+  website: http://www.ime.unicamp.br/~gasparim/
+
+kaledin:
+  name: Dmitry Kaledin
+  affiliation: Steklov
+  website: http://www.mi.ras.ru/~kaledin/
+
+keller:
+  name: Bernhard Keller
+  affiliation: Université Paris Diderot -- Paris VII
+  website: http://webusers.imj-prg.fr/~bernhard.keller/
+  tbc: true
+
+krause:
+  name: Henning Krause
+  affiliation: University of Bielefeld
+  website: https://www.math.uni-bielefeld.de/~hkrause/
+
+kuznetsov:
+  name: Alexander Kuznetsov
+  affiliation: Steklov
+  website: http://www.mi.ras.ru/~akuznet/
+
+manin:
+  name: Yuri Manin
+  affiliation: Max-Planck Institute for Mathematics
+
 neeman:
   name: Amnon Neeman
   affiliation: Australian National University
   website: http://maths-people.anu.edu.au/~neeman/
+
+orlov:
+  name: Dmitry Orlov
+  affiliation: Steklov
+  website: http://www.mi.ras.ru/~orlov/
+
+polishchuk:
+  name: Alexander Polishchuk
+  affiliation: University of Oregon
+  website: http://pages.uoregon.edu/apolish/
+
+positselski:
+  name: Leonid Positselski
+  affiliation: Higher School of Economics
+  website: http://positselski.narod.ru/
+
+sierra:
+  name: Susan Sierra
+  affiliation: University of Edinburgh
+  website: http://www.maths.ed.ac.uk/~ssierra/
+  tbc: true
+
+stafford:
+  name: Toby Stafford
+  affiliation: University of Manchester
+  website: http://www.maths.manchester.ac.uk/~jts/
+
+stevenson:
+  name: Greg Stevenson
+  affiliation: University of Bielefeld
+  website: https://www.math.uni-bielefeld.de/~gstevens/
+
+toen:
+  name: Bertrand Toën
+  affiliation: University of Toulouse
+  website: http://perso.math.univ-toulouse.fr/btoen/
+
+wemyss:
+  name: Michael Wemyss
+  affiliation: University of Edinburgh
+  website: http://www.maths.ed.ac.uk/~mwemyss/ 
