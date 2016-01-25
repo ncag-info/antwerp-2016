@@ -6,7 +6,7 @@ balmer:
 
 bondal:
   name: Alexey Bondal
-  affiliation: Steklov
+  affiliation: Steklov Mathematical Institute
 
 calaque:
   name: Damien Calaque
@@ -20,7 +20,7 @@ gasparim:
 
 kaledin:
   name: Dmitry Kaledin
-  affiliation: Steklov
+  affiliation: Steklov Mathematical Institute
   website: http://www.mi.ras.ru/~kaledin/
 
 keller:
@@ -36,7 +36,7 @@ krause:
 
 kuznetsov:
   name: Alexander Kuznetsov
-  affiliation: Steklov
+  affiliation: Steklov Mathematical Institute
   website: http://www.mi.ras.ru/~akuznet/
 
 manin:
@@ -50,7 +50,7 @@ neeman:
 
 orlov:
   name: Dmitry Orlov
-  affiliation: Steklov
+  affiliation: Steklov Mathematical Institute
   website: http://www.mi.ras.ru/~orlov/
 
 polishchuk:
@@ -88,3 +88,9 @@ wemyss:
   name: Michael Wemyss
   affiliation: University of Edinburgh
   website: http://www.maths.ed.ac.uk/~mwemyss/ 
+
+yekutieli:
+  name: Amnon Yekutieli
+  affiliation: Ben Gurion University
+  website: https://www.math.bgu.ac.il/~amyekut/ 
+
