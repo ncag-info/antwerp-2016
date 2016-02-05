@@ -13,6 +13,11 @@ calaque:
   affiliation: Université de Montpellier
   website: http://www.math.univ-montp2.fr/~calaque/
 
+dyckerhoff:
+  name: Tobias Dyckerhoff
+  affiliation: Hausdorff Center for Mathematics
+  website: http://www.math.uni-bonn.de/people/dyckerho/
+
 gasparim:
   name: Elizabeth Gasparim
   affiliation: Universidade Estadual de Campinas
@@ -48,6 +53,11 @@ manin:
   name: Yuri Manin
   affiliation: Max-Planck Institute for Mathematics
 
+muro:
+  name: Fernando Muro
+  affiliation: University of Sevilla
+  website: http://personal.us.es/fmuro/
+
 neeman:
   name: Amnon Neeman
   affiliation: Australian National University
@@ -78,6 +88,11 @@ stafford:
   name: Toby Stafford
   affiliation: University of Manchester
   website: http://www.maths.manchester.ac.uk/~jts/
+
+stellari:
+  name: Paolo Stellari
+  affiliation: University of Milan
+  website: http://users.unimi.it/stellari/
 
 stevenson:
   name: Greg Stevenson
