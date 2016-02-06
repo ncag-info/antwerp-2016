@@ -68,6 +68,12 @@ orlov:
   affiliation: Steklov Mathematical Institute
   website: http://www.mi.ras.ru/~orlov/
 
+pantev:
+  name: Tony Pantev
+  affiliation: University of Pennsylvania
+  website: https://www.math.upenn.edu/~tpantev/
+  tbc: true
+
 polishchuk:
   name: Alexander Polishchuk
   affiliation: University of Oregon
@@ -98,6 +104,11 @@ stevenson:
   name: Greg Stevenson
   affiliation: University of Bielefeld
   website: https://www.math.uni-bielefeld.de/~gstevens/
+
+tabuada:
+  name: Goncalo Tabuada
+  affiliation: Massachusetts Institute of Technology
+  website: http://math.mit.edu/~tabuada/
 
 toen:
   name: Bertrand Toën
