@@ -131,3 +131,13 @@ ul.names span.name a {
 ul.names span.name a:hover {
   text-decoration: underline;
 }
+
+ul#logos {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul#logos li {
+  margin: 0 10px;
+  display: inline;
+}
