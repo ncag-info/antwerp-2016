@@ -1,9 +1,3 @@
-balmer:
-  name: Paul Balmer
-  affiliation: UCLA
-  website: http://www.math.ucla.edu/~balmer/
-  tbc: true
-
 bondal:
   name: Alexey Bondal
   affiliation: Steklov Mathematical Institute
@@ -24,7 +18,7 @@ dyckerhoff:
 
 gasparim:
   name: Elizabeth Gasparim
-  affiliation: Universidade Estadual de Campinas
+  affiliation: Universidad Católica del Norte, Chile
   website: http://www.ime.unicamp.br/~gasparim/
 
 kaledin:
@@ -36,12 +30,6 @@ kapranov:
   name: Mikhail Kapranov
   affiliation: Yale University
   website: http://users.math.yale.edu/~mk486/
-
-keller:
-  name: Bernhard Keller
-  affiliation: Université Paris Diderot -- Paris VII
-  website: http://webusers.imj-prg.fr/~bernhard.keller/
-  tbc: true
 
 krause:
   name: Henning Krause
@@ -76,7 +64,6 @@ pantev:
   name: Tony Pantev
   affiliation: University of Pennsylvania
   website: https://www.math.upenn.edu/~tpantev/
-  tbc: true
 
 polishchuk:
   name: Alexander Polishchuk
@@ -92,7 +79,6 @@ sierra:
   name: Susan Sierra
   affiliation: University of Edinburgh
   website: http://www.maths.ed.ac.uk/~ssierra/
-  tbc: true
 
 stafford:
   name: Toby Stafford
