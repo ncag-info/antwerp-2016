@@ -1,3 +1,13 @@
+bergh:
+  name: Daniel Bergh
+  affiliation: University of Bonn
+  website: http://www.math.uni-bonn.de/~dbergh/
+
+block:
+  name: Jonathan Block
+  affiliation: University of Pennsylvania
+  website: https://www.math.upenn.edu/~blockj/
+
 bondal:
   name: Alexey Bondal
   affiliation: Steklov Mathematical Institute
@@ -15,6 +25,11 @@ dyckerhoff:
   name: Tobias Dyckerhoff
   affiliation: Hausdorff Center for Mathematics
   website: http://www.math.uni-bonn.de/people/dyckerho/
+
+fregier:
+  name: Yaël Frégier
+  affiliation: University of Artois
+  website: https://sites.google.com/site/homepagelml/
 
 gasparim:
   name: Elizabeth Gasparim
@@ -55,6 +70,11 @@ neeman:
   affiliation: Australian National University
   website: http://maths-people.anu.edu.au/~neeman/
 
+okawa:
+  name: Shinnosuke Okawa
+  affiliation: Osaka University
+  website: http://www.math.sci.osaka-u.ac.jp/~okawa/
+
 orlov:
   name: Dmitry Orlov
   affiliation: Steklov Mathematical Institute
@@ -75,10 +95,19 @@ positselski:
   affiliation: Higher School of Economics
   website: http://positselski.narod.ru/
 
+segal:
+  name: Ed Segal
+  affiliation: Imperial College London
+  website: http://wwwf.imperial.ac.uk/~epsegal/
+
 sierra:
   name: Susan Sierra
   affiliation: University of Edinburgh
   website: http://www.maths.ed.ac.uk/~ssierra/
+
+spenko:
+  name: Špela Špenko
+  affiliation: University of Edinburgh
 
 stafford:
   name: Toby Stafford
