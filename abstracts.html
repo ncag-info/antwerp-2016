@@ -10,6 +10,7 @@ layout: default
   <li>{{ speaker.name }}: <a href="#{{ talk.speaker }}">{{ talk.title }}</a>
 {% endfor %}
 </ul>
+<hr>
 
 {% for talk_id in site.data.talks %}
 {% assign talk = talk_id[1] %}

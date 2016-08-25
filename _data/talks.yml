@@ -1,3 +1,10 @@
+kuznetsov:
+  title: Categorical joins and homological projective duality
+  speaker: kuznetsov
+  abstract: >
+    <p>In the talk I will discuss the notion of a categorical join and its relation to homological projective duality. In particular, I will describe some interesting semiorthogonal decompositions and equivalences of categories that can be obtained by using the method of joins. This is a joint work with Alex Perry.
+
+
 muro:
   title: Spaces of locally finite triangulated categories
   speaker: muro
@@ -41,6 +48,12 @@ sierra:
     <p>This is joint work with Rogalski and Stafford.
 
 
+spenko:
+  title: Semi-orthogonal decomposition for GIT quotient stacks
+  speaker: spenko
+  abstract: We will present a semi-orthogonal decomposition of the derived category of a GIT quotient stack $\mathbf{D}(X/G)$ consisting of derived categories of coherent sheaves of rings on $X/\!/G$ which are locally of finite global dimension. This is joint work with Michel Van den Bergh.
+
+
 stafford:
   title: Noncommutative rational surfaces and subalgebras of Sklyanin algebras
   speaker: stafford
@@ -75,3 +88,22 @@ wemyss:
   title: Affine actions from 3-fold flops, and tilings of the plane.
   speaker: wemyss
   abstract: Iterating flops (via cluster theory) gives a "birational geometry" action on the derived category of 3-folds, and I will explain how to understand this group from the viewpoint of the topology of hyperplane arrangements.  They are very similar to pure braid groups.  However, the expectation, now proved in many cases, is that this action be extended to an “affine pure braid group” acting on the derived category.  I will explain some Coxeter combinatorics background behind this, which is completely independent of the geometric motivation.  The remarkable thing is that the geometry predicts unseen algebraic phenomenon, like an affine version of the symmetries of the pentagon (which does not exist!), and most of the talk will be motivated by the simplest case of two intersecting flopping curves.  Towards the end I will explain how this case is related to certain tilings of the plane, and indeed every choice of two nodes of a Dynkin diagram induces a tiling of the plane.  These tilings seem to be new, and are somewhat mysterious.
+
+
+yekutieli:
+  title: Weak proregularity, weak stability and the noncommutative MGM equivalence
+  speaker: yekutieli
+  abstract: >
+    <p>Let $A$ be a commutative ring, and let $\mathfrak{a}$ be a finitely generated ideal in it. It is known that a necessary and sufficient condition for the derived $\mathfrak{a}$-torsion and the derived $\mathfrak{a}$-adic completion functors to be nicely behaved is the weak proregularity of the ideal $\mathfrak{a}$. In particular, the MGM equivalence holds under this condition.
+
+    <p>Because weak proregularity is defined in terms of elements of the ring (specifically, it involves limits of Koszul complexes), it is not suitable for noncommutative ring theory.
+
+    <p>Consider a torsion class $\mathcal{T}$ in the category $\mathop{\mathrm{Mod}}A$ of left modules over a ring $A$. We introduce a new condition on $\mathcal{T}$: weak stability. Our first main theorem is that when $A$ is commutative, an ideal $\mathfrak{a}$ in $A$ is weakly proregular if and only if the corresponding torsion class $\mathcal{T}$ in $\mathop{\mathrm{Mod}}A$ is weakly stable.
+
+    <p>It turns out that when the ring $A$ is noncommutative, one must impose two more conditions on the torsion class $\mathcal{T}$: quasi-compactness and finite dimensionality (these are new names for old conditions). We prove that for a torsion class $\mathcal{T}$ that is weakly stable, quasi-compact and finite dimensional, the right derived $\mathcal{T}$-torsion functor is isomorphic to a left derived tensor functor. This result involves derived categories of bimodules. Some examples will be given.
+
+    <p>The third main theorem is the noncommutative MGM equivalence, under the same assumptions on $\mathcal{T}$. Finally, there is a theorem about derived left-sided and right-sided torsion for complexes of bimodules. This last theorem is a generalization of a result of Van den Bergh from 1997, and it corrects an error in a paper of Yekutieli-Zhang from 2003.
+
+    <p>We expect that the approach outlined in this talk will open up the way to a useful theory of rigid dualizing complexes in the arithmetic noncommutative setting (namely without a base field).
+
+    <p>The work above is joint with Rishi Vyas.
