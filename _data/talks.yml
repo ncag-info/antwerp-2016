@@ -1,0 +1,77 @@
+muro:
+  title: Spaces of locally finite triangulated categories
+  speaker: muro
+  abstract: >
+    <p>Locally finite triangulated categories have been extensively studied from a classical perspective by Xiao and Zhu, Amiot, and Krause. In this talk we will consider their spaces of differential graded enhancements. We will see that the obstruction theory for the existence and uniqueness of enhancements works particularly well with these triangulated categories, allowing for explicit computations.
+
+
+neeman:
+  title: Strong generation in derived categories of schemes
+  speaker: neeman
+  abstract: >
+    <p>Bondal and Van den Bergh proved in 2003 that the bounded derived category of coherent sheaves on a scheme smooth over a field $k$ is strongly generated. Rouquier proved in 2008 that this is also true without the smoothness hypothesis. And a tremendous amount of work has gone into studying the phenomenon, and estimating the Rouquier dimension of these categories. We will review some of the work.
+
+    <p>Based on an idea from a beautiful paper by Orlov the speaker was able to improve an approximation theorem by Lipman and himself. The relevance to the results in the first paragraph is that one can generalise greatly: it turns out that the 2003 theorem by Bondal and Van den Bergh extends to say that the category of perfect complexes on any quasi compact, separated scheme is strongly generated if and only if the scheme is locally of finite global dimension, while the bounded derived category of coherent sheaves is strongly generated for any scheme of finite type over an excellent 3-fold.
+
+    <p>But it turns out that the approximation result has other applications&mdash;time permitting I hope to say something about them.
+
+
+polishchuk:
+  title: Moduli spaces of $\mathrm{A}_\infty$-structures
+  speaker: polishchuk
+  abstract: >
+    <p>In this talk I will present a criterion on the existence of a nice moduli space parametrizing $\mathrm{A}_\infty$-structures on a given finite-dimensional graded associative algebra. I will consider two examples involving such moduli spaces: one is related to moduli spaces of curves and another to solutions of the associative Yang&ndash;Baxter equation.
+
+
+positselski:
+  title: Matlis&ndash;Greenlees&ndash;May duality, covariant Serre&ndash;Grothendieck duality, and comodule&ndash;contramodule correspondence
+  speaker: positselski
+  abstract: >
+    <p>Covariant Serre&ndash;Grothendieck duality is an equivalence between the coderived and the contraderived category of modules.  To construct such an equivalence, one needs an additional piece of data, namely, a dualizing complex.  Matlis&ndash;Greenlees&ndash;May duality is an equivalence between the conventional derived categories of comodules and contramodules. To construct such an equivalence, one needs a piece of data called a dedualizing complex.  Comodule&ndash;contramodule correspondence is an equivalence between the coderived category of comodules and the contraderived category of contramodules.  This equivalence is canonical and does not need any additional data.
+
+
+sierra:
+  title: Noncommutative minimal surfaces
+  speaker: sierra
+  abstract: >
+    <p>In the classification of (commutative) projective surfaces, one first classifies minimal models for a given birational class, and then shows that any surface can be blown down at a finite number of curves to obtain a minimal model.
+
+    <p>Artin has proposed a similar programme for noncommutative surfaces (that is, domains of Gelfand&ndash;Kirillov dimension&nbsp;3).  In the generic "rational" case of rings birational to a Sklyanin algebra, the likely candidates for minimal models are the Sklyanin algebra itself and Van den Bergh's quadric surfaces. We show, using our previously developed noncommutative version of blowing down, that these algebras are minimal in a very strong sense: given a Sklyanin algebra or quadric $R$, if $S$ is a connected graded, noetherian overring of $R$ with the same graded ring of fractions, then $S=R$.
+
+    <p>This is joint work with Rogalski and Stafford.
+
+
+stafford:
+  title: Noncommutative rational surfaces and subalgebras of Sklyanin algebras
+  speaker: stafford
+  abstract: >
+    <p>One of the major open problems in noncommutative algebraic geometry is to classify noncommutative surfaces (or domains of Gelfand&ndash;Kirillov dimension 3).  The noncommutative projective planes are known by the classic Artin&ndash;Tate&ndash;Van den Bergh theorem, with the "generic" planes been given by the Sklyanin algebras Skl. But can one classify all generic rational surfaces, (or algebras birational to Skl)? Subalgebras of Skl that are maximal orders have been classified in recent work with Rogalski and Sierra, using a version of blowing-up, which we will discuss in the first part of this lecture. The next step is to understand blowing down, which will be covered in the second half of the lecture. This will also be used in Sierra’s lecture on minimal models.
+
+    <p>This is joint work with Rogalski and Sierra.
+
+
+stellari:
+  title: Bridgeland stability for semiorthogonal decompositions
+  speaker: stellari
+  abstract: >
+    <p>Various interesting results concerning the geometry of smooth cubic threefolds point to the relevance of constructing Bridgeland stability conditions on semiorthogonal decompositions. We illustrate some of them with the aim of  introducing a new method to induce stability conditions on semiorthogonal decompositions. We prove that it provides Bridgeland stability conditions on the Kuznetsov component of the derived category of some Fano threefolds and cubic fourfolds. This is joint work in progress with Arend Bayer, Mart&iacute; Lahoz and Emanuele Macr&iacute;.
+
+
+stevenson:
+  title: Bounded derived categories, normalisations, and duality
+  speaker: stevenson
+  abstract: >
+    <p>Given a ring, one is frequently led to consider the bounded derived category of suitably finite modules; this category, from some points of view, has much better properties than the perfect complexes and admits interesting Verdier quotients such as the singularity category. I'll discuss joint work with John Greenlees proposing an analogue of the bounded derived category for certain augmented ring spectra, in terms of a kind of Noether normalisation. In particular, I'll highlight the way in which, given a sufficiently nice normalisation, one obtains a pleasingly symmetric situation upon passing to Koszul duals, together with examples demonstrating that this applies in many cases of interest.
+
+
+toen:
+  title: Bloch's conductor formula and matrix factorizations
+  speaker: toen
+  abstract: >
+    <p>The Bloch's conductor formula states that the change of Euler characteristics of a degenerating family of proper schemes is the sum of a certain intersection number and the Swan conductor. It has been proved in some special case by Kato-Saito but remains open in general. In this talk I will explain how to prove the conjecture using matrix factorizations, non-commutative motives and their $\ell$-adic realizations.
+
+
+wemyss:
+  title: Affine actions from 3-fold flops, and tilings of the plane.
+  speaker: wemyss
+  abstract: Iterating flops (via cluster theory) gives a "birational geometry" action on the derived category of 3-folds, and I will explain how to understand this group from the viewpoint of the topology of hyperplane arrangements.  They are very similar to pure braid groups.  However, the expectation, now proved in many cases, is that this action be extended to an “affine pure braid group” acting on the derived category.  I will explain some Coxeter combinatorics background behind this, which is completely independent of the geometric motivation.  The remarkable thing is that the geometry predicts unseen algebraic phenomenon, like an affine version of the symmetries of the pentagon (which does not exist!), and most of the talk will be motivated by the simplest case of two intersecting flopping curves.  Towards the end I will explain how this case is related to certain tilings of the plane, and indeed every choice of two nodes of a Dynkin diagram induces a tiling of the plane.  These tilings seem to be new, and are somewhat mysterious.
