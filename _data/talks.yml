@@ -37,6 +37,12 @@ positselski:
     <p>Covariant Serre&ndash;Grothendieck duality is an equivalence between the coderived and the contraderived category of modules.  To construct such an equivalence, one needs an additional piece of data, namely, a dualizing complex.  Matlis&ndash;Greenlees&ndash;May duality is an equivalence between the conventional derived categories of comodules and contramodules. To construct such an equivalence, one needs a piece of data called a dedualizing complex.  Comodule&ndash;contramodule correspondence is an equivalence between the coderived category of comodules and the contraderived category of contramodules.  This equivalence is canonical and does not need any additional data.
 
 
+segal:
+  title: Homological projective duality for Pfaffians
+  speaker: segal
+  abstract: >
+    <p>A Pfaffian variety is a space of anti-symmetric matrices with some fixed upper bound on the rank, and the projective dual of a Pfaffian variety is a another Pfaffian variety. Kuznetsov conjectured that these varieties should have non-commutative resolutions, with the derived categories of projectively-dual pairs satisfying a nice relationship called "homological projective duality". I will discuss the construction of these noncommutative resolutions (which is due to Špenko and Van den Bergh) and a proof that they do indeed satisfy the duality. Our proof is motivated by a physical duality of non-abelian GLSMs, proposed by Hori. This is joint work with Jørgen Rennemo.
+
 sierra:
   title: Noncommutative minimal surfaces
   speaker: sierra
