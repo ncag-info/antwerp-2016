@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2>Abstracts</h2>
-<ul>
+<ul class="names">
 {% for talk_id in site.data.talks %}
   {% assign talk = talk_id[1] %}
   {% assign speaker = site.data.speakers[talk.speaker] %}
