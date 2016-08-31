@@ -1,81 +1,81 @@
-- Severin Barmeier
-- Sjoerd Beentjes
-- Pieter Belmans
-- Daniel Bergh
-- Jonathan Block
-- Mark Blume
-- Agnieszka Bodzenta
-- Alexey Bondal
-- Ragnar-Olaf Buchweitz
-- Frederik Caenepeel
-- Pierre Cagne
-- Damien Calaque
-- Martino Cantadore
-- Xiaojun Chen
-- Joachim De Groot-Rouenhoff
-- Kevin De Laet
-- Dougal Davis
-- Tobias Dyckerhoff
-- Özgür Esentepe
-- Farkhod Eshmatov
-- Yaël Frégier
-- Elizabeth Gasparim
-- Francesco Genovese
-- Marton Hablicsekc
-- Rune Haugseng
-- Jens Hemelaer
-- Amit Hogadi
-- Julian Holstein
-- Richard Hughes
-- Colin Ingalls
-- Dmitry Kaledin
-- Mikhail Kapranov
-- Sebastian Klein
-- Clemens Koppensteiner
-- Henning Krause
-- Alexander Kuznetsov
-- Stephen Kwok
-- Bronson Lim
-- Wendy Lowen
-- Paul-André Mellies
-- Mihovich Mihailovic
-- Fernando Muro
-- Hiroshi Naruse
-- Amnon Neeman
-- Shinnosuke Okawa
-- Mattia Ornaghi
-- Tony Pantev
-- François Petit
-- Alexander Polishchuk
-- Leonid Positselski
-- Rory Potter
-- Dennis Presotto
-- Theo Raedschelders
-- Julia Ramos Gonzalez
-- Alice Rizzardo
-- Gregoric Rok
-- Marcel Rubio
-- Dmitriy Rumynin
-- Beren Sanders
-- Olaf Schnürer
-- Ed Segal
-- Liran Shaul
-- Susan Sierra
-- Lucas Simon
-- Špela Špenko
-- Toby Stafford
-- Paolo Stellari
-- Greg Stevenson
-- Goncalo Tabuada
-- Bertrand Toën
-- Luisa Troili
-- Niels Uit de Bos
-- Michel Van den Bergh
-- Wouter Van Den Haute
-- Dinh Van Hoang
-- Nikolaas Verhulst
-- Rishi Vyas
-- Michael Wemyss
-- Song Yang
-- Amnon Yekutieli
-- Pal Zsamboki
+- Severin Barmeier (Universidad Católica del Norte Antofagasta, Chile)
+- Sjoerd Beentjes (University of Edinburgh)
+- Pieter Belmans (University of Antwerp)
+- Daniel Bergh (University of Bonn)
+- Jonathan Block (University of Pennsylvania)
+- Mark Blume (University Münster)
+- Agnieszka Bodzenta (University of Edinburgh)
+- Alexey Bondal (Steklov Mathematical Institute)
+- Ragnar-Olaf Buchweitz (University of Toronto)
+- Frederik Caenepeel (University of Antwerp)
+- Pierre Cagne (Université Paris&mdash;Diderot)
+- Damien Calaque (Université de Montpellier)
+- Martino Cantadore (Università di Roma 1)
+- Xiaojun Chen (Sichaun University)
+- Joachim De Groot-Rouenhoff ()
+- Kevin De Laet (University of Antwerp)
+- Dougal Davis (London School of Geometry and Number Theory)
+- Tobias Dyckerhoff (Hausdorff Center for Mathematics)
+- Özgür Esentepe (University of Toronto)
+- Farkhod Eshmatov (Sichuan Unversity)
+- Yaël Frégier (University of Artois)
+- Elizabeth Gasparim (Universidad Católica del Norte, Chile)
+- Francesco Genovese (University of Pavia)
+- Marton Hablicsek (University of Pennsylvania)
+- Rune Haugseng (University of Copenhagen)
+- Jens Hemelaer (University of Antwerp)
+- Amit Hogadi (IISER Pune)
+- Julian Holstein (Max Planck Institute Bonn)
+- Richard Hughes (University of Texas at Austin)
+- Colin Ingalls (University of New Brunswick)
+- Dmitry Kaledin (Steklov Mathematical Institute)
+- Mikhail Kapranov (Yale University)
+- Sebastian Klein (University of Antwerp)
+- Clemens Koppensteiner (University of British Columbia)
+- Henning Krause (University of Bielefeld)
+- Alexander Kuznetsov (Steklov Mathematical Institute)
+- Stephen Kwok (University of Luxembourg)
+- Bronson Lim (University of Oregon)
+- Wendy Lowen (University of Antwerp)
+- Paul-André Mellies (Université Paris&mdash;Diderot)
+- Mihovich Mihailovic ()
+- Fernando Muro (University of Sevilla)
+- Hiroshi Naruse (University of Yamanashi)
+- Amnon Neeman (Australian National University)
+- Shinnosuke Okawa (Osaka University)
+- Mattia Ornaghi (University of Milan)
+- Tony Pantev (University of Pennsylvania)
+- François Petit (University of Luxembourg)
+- Alexander Polishchuk (University of Oregon)
+- Leonid Positselski (Higher School of Economics)
+- Rory Potter (University of Sheffield)
+- Dennis Presotto (University of Hasselt)
+- Theo Raedschelders (Free University of Brussels)
+- Julia Ramos González (University of Antwerp)
+- Alice Rizzardo (SISSA)
+- Gregoric Rok (University of Ljubljana)
+- Marcel Rubio (KU Leuven)
+- Dmitriy Rumynin (University of Warwick)
+- Beren Sanders (University of Copenhagen)
+- Olaf Schnürer (Universität Bonn)
+- Ed Segal (Imperial College London)
+- Liran Shaul (University of Antwerp)
+- Susan Sierra (University of Edinburgh)
+- Lucas Simon (University of Colorado Boulder)
+- Špela Špenko (University of Edinburgh)
+- Toby Stafford (University of Manchester)
+- Paolo Stellari (University of Milan)
+- Greg Stevenson (University of Bielefeld)
+- Goncalo Tabuada (Massachusetts Institute of Technology)
+- Bertrand Toën (University of Toulouse)
+- Luisa Troili ()
+- Niels Uit de Bos (Universität Duisburg-Essen)
+- Michel Van den Bergh (University of Hasselt)
+- Wouter Van Den Haute (Free University of Brussels)
+- Dinh Van Hoang (University of Antwerp)
+- Nikolaas Verhulst (University of Antwerp)
+- Rishi Vyas (Ben-Gurion University of the Negev)
+- Michael Wemyss (University of Edinburgh)
+- Song Yang (Tianjin University)
+- Amnon Yekutieli (Ben Gurion University)
+- Pal Zsamboki ()
