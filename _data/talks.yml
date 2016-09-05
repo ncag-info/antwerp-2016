@@ -7,6 +7,20 @@ buchweitz:
     <p>This means, in particular, that that triangulated category is exact equivalent to the derived category of modules of finite length over a (usually noncommutative) Artin algebra. That Artin algebra is of finite global dimension and one can use this to construct any graded torsionfree module over the curve singularity through finitely many extensions of finitely many known modules and their (co-)syzygies.
 
 
+gasparim:
+  title: An elementary LG model without projective mirrors
+  speaker: gasparim
+  abstract: >
+    <p>I will discuss deformations of local surfaces and their moduli of vector bundles. This is joint work with Severin Barmeier. I will then present a Landau-Ginzburg model that has no projective mirrors.
+
+
+kaledin:
+  title: How to glue derived categories
+  speaker: kaledin
+  abstract: >
+    <p>It is well-known that one cannot glue triangulated categories unless they are equipped with some enhancement. In practice, people use either DG enhancement, or the machinery of stable infinity-categories. Unfortunately, for quite a few applications, DG enhancements are not flexible enough, while infinity-categories are much too heavy. We are going to sketch an intermediate approach based on the notion of a "stable model pair", and show how it can be applied to practical problems such as deformations of abelian categories.
+
+
 krause:
   title: Local duality for representations of finite group schemes
   speaker: krause
