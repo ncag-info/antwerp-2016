@@ -7,6 +7,13 @@ buchweitz:
     <p>This means, in particular, that that triangulated category is exact equivalent to the derived category of modules of finite length over a (usually noncommutative) Artin algebra. That Artin algebra is of finite global dimension and one can use this to construct any graded torsionfree module over the curve singularity through finitely many extensions of finitely many known modules and their (co-)syzygies.
 
 
+calaque:
+  title: Derived symplectic and Poisson geometry
+  speaker: calaque
+  abstract: >
+    <p>We will present an overview of the recent progress on symplectic and Poisson structures in the setting of derived algebraic geometry. We will point out several interesting connections with mathematical physics, for instance with topological field theories.
+
+
 gasparim:
   title: An elementary LG model without projective mirrors
   speaker: gasparim
