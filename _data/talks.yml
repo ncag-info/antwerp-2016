@@ -129,6 +129,12 @@ stevenson:
     <p>Given a ring, one is frequently led to consider the bounded derived category of suitably finite modules; this category, from some points of view, has much better properties than the perfect complexes and admits interesting Verdier quotients such as the singularity category. I'll discuss joint work with John Greenlees proposing an analogue of the bounded derived category for certain augmented ring spectra, in terms of a kind of Noether normalisation. In particular, I'll highlight the way in which, given a sufficiently nice normalisation, one obtains a pleasingly symmetric situation upon passing to Koszul duals, together with examples demonstrating that this applies in many cases of interest.
 
 
+tabuada:
+  title: Voevodsky's nilpotence conjecture via noncommutative geometry
+  speaker: tabuada
+  abstract: >
+    <p>Voevodsky conjectured in the nineties that the smash nilpotent equivalence relation on algebraic cycles agrees with the classical numerical equivalence relation. Making use of noncommutative geometry, I will prove some new cases of this important conjecture.
+
 toen:
   title: Bloch's conductor formula and matrix factorizations
   speaker: toen
