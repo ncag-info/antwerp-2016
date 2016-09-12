@@ -14,6 +14,20 @@ calaque:
     <p>We will present an overview of the recent progress on symplectic and Poisson structures in the setting of derived algebraic geometry. We will point out several interesting connections with mathematical physics, for instance with topological field theories.
 
 
+dyckerhoff:
+  title: A secondary Dold-Kan correspondence
+  speaker: dyckerhoff
+  abstract: >
+    <p>Various recent developments, in particular in the context of topological Fukaya categories, seem to be glimpses of an emerging theory of secondary, or categorified, homotopical and homological algebra. The increasing number of meaningful examples and constructions make it desirable to develop such a theory systematically. In this talk, we discuss a step towards this goal: a secondary analog of the Dold&ndash;Kan correspondence.
+
+
+fregier:
+  title: On some constructions of $\mathrm{L}_\infty$-algebras
+  speaker: fregier
+  abstract: >
+    <p>Gerstenhaber and Schack have introduced a cohomology governing infinitesimal deformations of diagrams of algebras. It recovers Hochschild and Kodaira&ndash;Spencer theories in specific cases. However, more structure is needed to describe the formal deformations as a Maurer&ndash;Cartan equation. We will explain how one can build a $\mathrm{L}_\infty$ algebra governing such deformations in two ways: by resolution of operads or by derived brackets. Examples encompass some simultaneous deformation problems such as morphisms and algebras. The derived bracket approach can find applications in geometry, where the operadic approach does not apply.
+
+
 gasparim:
   title: An elementary LG model without projective mirrors
   speaker: gasparim
@@ -26,6 +40,13 @@ kaledin:
   speaker: kaledin
   abstract: >
     <p>It is well-known that one cannot glue triangulated categories unless they are equipped with some enhancement. In practice, people use either DG enhancement, or the machinery of stable infinity-categories. Unfortunately, for quite a few applications, DG enhancements are not flexible enough, while infinity-categories are much too heavy. We are going to sketch an intermediate approach based on the notion of a "stable model pair", and show how it can be applied to practical problems such as deformations of abelian categories.
+
+
+kapranov:
+  title: Perverse schobers on surfaces via Ran categories
+  speaker: kapranov
+  abstract: >
+    <p>We give a definition of perverse schobers on an oriented topological surface using a relative version of the category of exit paths of the Ran space. It incorporates the periodicity properties of the relative Waldhausen S-construction of a spherical functor. This allows us to define the topological Fukaya category with coefficients in a schober. Joint work with T. Dyckerhoff, V. Schechtman and Y. Soibelman.
 
 
 krause:
@@ -66,6 +87,12 @@ okawa:
   abstract: >
     <p>I will introduce certain construction of compactified moduli spaces of marked noncommutative del Pezzo surfaces. The construction is based on full strong exceptional collections of derived categories. I will also discuss relationship with noncommutative projective planes and their blowups. The talk will be based on my joint work with Tarig Abdelgadir and Kazushi Ueda.
 
+
+pantev:
+  title: Descent and equivalences in noncommutative geometry
+  speaker: pantev
+  abstract: >
+    <p>I will describe a descent formalism in categorical nc geometry which is geared towards constructions of Fourier&ndash;Mukai functors. The formalism allows one to carry out  descent constructions in general algebraic and analytic frameworks without resorting to generators. I will discuss various applications, such as the  connection to the classical Zariski and flat descents, constructions of Fukaya categories, and homological mirror symmetry. This is a joint work with Katzarkov and Kontsevich.
 
 
 polishchuk:
