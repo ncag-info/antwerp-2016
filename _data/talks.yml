@@ -1,3 +1,12 @@
+bergh:
+  title: Categorical measures for equivariant varieties
+  speaker: bergh
+  abstract: >
+    <p>The categorical measure was introduced by Bondal, Larsen and Lunts in 2004. This is a ring homomorphism from the Grothendieck group of varieties to the Grothendieck group of saturated dg categories. We study this measure in an equivariant setting. In particular, we prove a formula suggested by Galkin and Shinder relating the motivic zeta functions on the respective Grothendieck groups. Related to this is a conjecture by Polishchuk and Van den Bergh regarding the existence of a certain semi-orthogonal decomposition of the equivariant derived category for a variety with an effective action by a finite group. We give an example showing that such a decomposition cannot exist if the effectiveness assumption is removed.
+
+    <p>This is a joint work (in progress) with S. Gorshinsky, M. Larsen and V. Lunts.
+
+
 buchweitz:
   title: Tilting in the graded singularity category of a quasihomogeneous Gorenstein curve
   speaker: buchweitz
