@@ -4,9 +4,6 @@ permalink: /schedule
 ---
 
 <h2>Schedule</h2>
-<p><em>To be announced.</em>
-<p>The <a href="{{ site.baseurl }}/abstracts">list of abstracts</a> is available.
-
 
 {% for day in site.data.schedule %}
 <h3>{{ day.date }}</h3>
@@ -15,13 +12,19 @@ permalink: /schedule
     <dt>{{ slot.time }}
     {% if slot.talk %}
       {% assign talk = site.data.talks[slot.talk] %}
-      {% assign speaker = site.data.speakers[talk.speaker] %}
-      <dd class="title">{{ talk.title }}</dd>
+      {% assign speaker = site.data.speakers[slot.talk] %}
+
+      {% if site.data.talks[slot.talk] %}
+      <dd class="title"><a href="{{ site.baseurl }}/abstracts#{{ slot.talk }}">{{ talk.title }}</a></dd>
+      {% else %}
+        <dd>to be determined</dd>
+      {% endif %}
+
       <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)</dd>
     {% elsif slot.other %}
       <dd>{{ slot.other }}
     {% else %}
-      <dd><em>to be announced</em></dd>
+      <dd><em>to be determined</em></dd>
     {% endif %}
   {% endfor %}
 </dl>

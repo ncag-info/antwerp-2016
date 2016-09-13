@@ -1,0 +1,59 @@
+- date: Monday, September 19th
+  slots:
+    [
+      { time: "10:10&ndash;10:55", talk: buchweitz },
+      { time: "11:25&ndash;12:10", talk: wemyss },
+      { time: "14:00&ndash;14:45", talk: muro },
+      { time: "14:55&ndash;15:40", talk: bergh },
+      { time: "16:10&ndash;16:55", talk: tabuada },
+    ]
+
+- date: Tuesday, September 20th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: polishchuk },
+      { time: "10:10&ndash;10:55", talk: dyckerhoff },
+      { time: "11:25&ndash;12:10", talk: krause },
+      { time: "14:00&ndash;14:45", talk: kapranov },
+      { time: "14:55&ndash;15:40", talk: spenko },
+      { time: "16:10&ndash;16:55", talk: segal },
+    ]
+
+- date: Wednesday, September 21th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: toen },
+      { time: "10:10&ndash;10:55", talk: yekutieli },
+      { time: "11:25&ndash;12:10", talk: positselski },
+      { time: "18:00&ndash;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",   other: "conference dinner" },
+    ]
+
+- date: Thursday, September 22th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: kuznetsov },
+      { time: "10:10&ndash;10:55", talk: stellari },
+      { time: "11:25&ndash;12:10", talk: calaque },
+      { time: "14:00&ndash;14:45", talk: stafford },
+      { time: "14:55&ndash;15:40", talk: sierra },
+      { time: "16:10&ndash;16:55", talk: okawa },
+    ]
+
+- date: Friday, September 23th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: kaledin },
+      { time: "10:10&ndash;10:55", talk: fregier },
+      { time: "11:25&ndash;12:10", talk: block },
+      { time: "14:00&ndash;14:45", talk: neeman },
+      { time: "14:55&ndash;15:40", talk: stevenson },
+    ]
+
+
+- date: Saturday, September 24th
+  slots:
+    [
+      { time:  "9:15&ndash;10:00", talk: pantev },
+      { time: "10:10&ndash;10:55", talk: gasparim },
+      { time: "11:25&ndash;12:10", talk: bondal },
+    ]
