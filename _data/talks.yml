@@ -7,6 +7,12 @@ bergh:
     <p>This is a joint work (in progress) with S. Gorshinsky, M. Larsen and V. Lunts.
 
 
+block:
+  title: Hermitian Yang&ndash;Mills in derived categories
+  speaker: block
+  abstract: >
+    <p>We formulate a Hermitian Yang&ndash;Mills equation in the derived category of coherent sheaves. A derived Calabi&ndash;Yau object naturally arises.
+
 buchweitz:
   title: Tilting in the graded singularity category of a quasihomogeneous Gorenstein curve
   speaker: buchweitz
