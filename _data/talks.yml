@@ -13,6 +13,16 @@ block:
   abstract: >
     <p>We formulate a Hermitian Yang&ndash;Mills equation in the derived category of coherent sheaves. A derived Calabi&ndash;Yau object naturally arises.
 
+
+bondal:
+  title: Canonical local generators for birational morphisms
+  speaker: bondal
+  abstract: >
+    <p>In his paper on flops of relative dimension 1, Van den Bergh studied t-structures, introduced by Bridgeland, in derived categories related to flopping contractions of relative dimension 1 and constructed local projective generators for the hearts of two of the t-structures, by generalizing an earlier construction of Artin and Verdier. These projective generators turned out to be an important tool for studying flops, because, in particular, their local endomorphism algebras can be regarded as non-commutative resolutions.
+
+    <p>The construction of the generators was inherently non-canonical. We discuss joint results with Agnieszka Bodzenta towards constructing new t-structures related to birational morphisms of smooth varieties, surprisingly simple canonical local projective generators related to them and their endomorphism algebras.
+
+
 buchweitz:
   title: Tilting in the graded singularity category of a quasihomogeneous Gorenstein curve
   speaker: buchweitz
