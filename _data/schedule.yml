@@ -62,7 +62,6 @@
       { time: "11:25&ndash;12:10", talk: block },
       { time: "12:10&ndash;14:00", other: "lunch" },
       { time: "14:00&ndash;14:45", talk: neeman },
-      { time: "15:45&ndash;16:10", other: "refreshments" },
       { time: "14:55&ndash;15:40", talk: stevenson },
     ]
 
