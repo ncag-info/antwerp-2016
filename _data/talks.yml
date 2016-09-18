@@ -29,7 +29,7 @@ buchweitz:
   abstract: >
     <p>In this joint work with Iyama and Yamaura we show that the stable category of graded maximal Cohen-Macaulay modules over a quasi-homogeneous reduced Gorenstein curve singularity admits an explicit tilting object.
 
-    <p>This means, in particular, that that triangulated category is exact equivalent to the derived category of modules of finite length over a (usually noncommutative) Artin algebra. That Artin algebra is of finite global dimension and one can use this to construct any graded torsionfree module over the curve singularity through finitely many extensions of finitely many known modules and their (co-)syzygies.
+    <p>This means, in particular, that that triangulated category is exact equivalent to the derived category of modules of finite length over a (usually non-commutative) Artin algebra. That Artin algebra is of finite global dimension and one can use this to construct any graded torsionfree module over the curve singularity through finitely many extensions of finitely many known modules and their (co-)syzygies.
 
 
 calaque:
@@ -107,17 +107,17 @@ neeman:
 
 
 okawa:
-  title: Compact moduli of marked noncommutative del Pezzo surfaces
+  title: Compact moduli of marked non-commutative del Pezzo surfaces
   speaker: okawa
   abstract: >
-    <p>I will introduce certain construction of compactified moduli spaces of marked noncommutative del Pezzo surfaces. The construction is based on full strong exceptional collections of derived categories. I will also discuss relationship with noncommutative projective planes and their blowups. The talk will be based on my joint work with Tarig Abdelgadir and Kazushi Ueda.
+    <p>I will introduce certain construction of compactified moduli spaces of marked non-commutative del Pezzo surfaces. The construction is based on full strong exceptional collections of derived categories. I will also discuss relationship with non-commutative projective planes and their blowups. The talk will be based on my joint work with Tarig Abdelgadir and Kazushi Ueda.
 
 
 pantev:
-  title: Descent and equivalences in noncommutative geometry
+  title: Descent and equivalences in non-commutative geometry
   speaker: pantev
   abstract: >
-    <p>I will describe a descent formalism in categorical noncommutative geometry which is geared towards constructions of Fourier&ndash;Mukai functors. The formalism allows one to carry out  descent constructions in general algebraic and analytic frameworks without resorting to generators. I will discuss various applications, such as the  connection to the classical Zariski and flat descents, constructions of Fukaya categories, and homological mirror symmetry. This is a joint work with Katzarkov and Kontsevich.
+    <p>I will describe a descent formalism in categorical non-commutative geometry which is geared towards constructions of Fourier&ndash;Mukai functors. The formalism allows one to carry out  descent constructions in general algebraic and analytic frameworks without resorting to generators. I will discuss various applications, such as the  connection to the classical Zariski and flat descents, constructions of Fukaya categories, and homological mirror symmetry. This is a joint work with Katzarkov and Kontsevich.
 
 
 polishchuk:
@@ -138,15 +138,15 @@ segal:
   title: Homological projective duality for Pfaffians
   speaker: segal
   abstract: >
-    <p>A Pfaffian variety is a space of anti-symmetric matrices with some fixed upper bound on the rank, and the projective dual of a Pfaffian variety is a another Pfaffian variety. Kuznetsov conjectured that these varieties should have non-commutative resolutions, with the derived categories of projectively-dual pairs satisfying a nice relationship called "homological projective duality". I will discuss the construction of these noncommutative resolutions (which is due to Špenko and Van den Bergh) and a proof that they do indeed satisfy the duality. Our proof is motivated by a physical duality of non-abelian GLSMs, proposed by Hori. This is joint work with Jørgen Rennemo.
+    <p>A Pfaffian variety is a space of anti-symmetric matrices with some fixed upper bound on the rank, and the projective dual of a Pfaffian variety is a another Pfaffian variety. Kuznetsov conjectured that these varieties should have non-commutative resolutions, with the derived categories of projectively-dual pairs satisfying a nice relationship called "homological projective duality". I will discuss the construction of these non-commutative resolutions (which is due to Špenko and Van den Bergh) and a proof that they do indeed satisfy the duality. Our proof is motivated by a physical duality of non-abelian GLSMs, proposed by Hori. This is joint work with Jørgen Rennemo.
 
 sierra:
-  title: Noncommutative minimal surfaces
+  title: Non-commutative minimal surfaces
   speaker: sierra
   abstract: >
     <p>In the classification of (commutative) projective surfaces, one first classifies minimal models for a given birational class, and then shows that any surface can be blown down at a finite number of curves to obtain a minimal model.
 
-    <p>Artin has proposed a similar programme for noncommutative surfaces (that is, domains of Gelfand&ndash;Kirillov dimension&nbsp;3).  In the generic "rational" case of rings birational to a Sklyanin algebra, the likely candidates for minimal models are the Sklyanin algebra itself and Van den Bergh's quadric surfaces. We show, using our previously developed noncommutative version of blowing down, that these algebras are minimal in a very strong sense: given a Sklyanin algebra or quadric $R$, if $S$ is a connected graded, noetherian overring of $R$ with the same graded ring of fractions, then $S=R$.
+    <p>Artin has proposed a similar programme for non-commutative surfaces (that is, domains of Gelfand&ndash;Kirillov dimension&nbsp;3).  In the generic "rational" case of rings birational to a Sklyanin algebra, the likely candidates for minimal models are the Sklyanin algebra itself and Van den Bergh's quadric surfaces. We show, using our previously developed non-commutative version of blowing down, that these algebras are minimal in a very strong sense: given a Sklyanin algebra or quadric $R$, if $S$ is a connected graded, noetherian overring of $R$ with the same graded ring of fractions, then $S=R$.
 
     <p>This is joint work with Rogalski and Stafford.
 
@@ -159,10 +159,10 @@ spenko:
 
 
 stafford:
-  title: Noncommutative rational surfaces and subalgebras of Sklyanin algebras
+  title: Non-commutative rational surfaces and subalgebras of Sklyanin algebras
   speaker: stafford
   abstract: >
-    <p>One of the major open problems in noncommutative algebraic geometry is to classify noncommutative surfaces (or domains of Gelfand&ndash;Kirillov dimension 3).  The noncommutative projective planes are known by the classic Artin&ndash;Tate&ndash;Van den Bergh theorem, with the "generic" planes been given by the Sklyanin algebras Skl. But can one classify all generic rational surfaces, (or algebras birational to Skl)? Subalgebras of Skl that are maximal orders have been classified in recent work with Rogalski and Sierra, using a version of blowing-up, which we will discuss in the first part of this lecture. The next step is to understand blowing down, which will be covered in the second half of the lecture. This will also be used in Sierra’s lecture on minimal models.
+    <p>One of the major open problems in non-commutative algebraic geometry is to classify non-commutative surfaces (or domains of Gelfand&ndash;Kirillov dimension 3).  The non-commutative projective planes are known by the classic Artin&ndash;Tate&ndash;Van den Bergh theorem, with the "generic" planes been given by the Sklyanin algebras Skl. But can one classify all generic rational surfaces, (or algebras birational to Skl)? Subalgebras of Skl that are maximal orders have been classified in recent work with Rogalski and Sierra, using a version of blowing-up, which we will discuss in the first part of this lecture. The next step is to understand blowing down, which will be covered in the second half of the lecture. This will also be used in Sierra’s lecture on minimal models.
 
     <p>This is joint work with Rogalski and Sierra.
 
@@ -182,10 +182,10 @@ stevenson:
 
 
 tabuada:
-  title: Voevodsky's nilpotence conjecture via noncommutative geometry
+  title: Voevodsky's nilpotence conjecture via non-commutative geometry
   speaker: tabuada
   abstract: >
-    <p>Voevodsky conjectured in the nineties that the smash nilpotent equivalence relation on algebraic cycles agrees with the classical numerical equivalence relation. Making use of noncommutative geometry, I will prove some new cases of this important conjecture.
+    <p>Voevodsky conjectured in the nineties that the smash nilpotent equivalence relation on algebraic cycles agrees with the classical numerical equivalence relation. Making use of non-commutative geometry, I will prove some new cases of this important conjecture.
 
 toen:
   title: Bloch's conductor formula and matrix factorizations
@@ -201,19 +201,19 @@ wemyss:
 
 
 yekutieli:
-  title: Weak proregularity, weak stability and the noncommutative MGM equivalence
+  title: Weak proregularity, weak stability and the non-commutative MGM equivalence
   speaker: yekutieli
   abstract: >
     <p>Let $A$ be a commutative ring, and let $\mathfrak{a}$ be a finitely generated ideal in it. It is known that a necessary and sufficient condition for the derived $\mathfrak{a}$-torsion and the derived $\mathfrak{a}$-adic completion functors to be nicely behaved is the weak proregularity of the ideal $\mathfrak{a}$. In particular, the MGM equivalence holds under this condition.
 
-    <p>Because weak proregularity is defined in terms of elements of the ring (specifically, it involves limits of Koszul complexes), it is not suitable for noncommutative ring theory.
+    <p>Because weak proregularity is defined in terms of elements of the ring (specifically, it involves limits of Koszul complexes), it is not suitable for non-commutative ring theory.
 
     <p>Consider a torsion class $\mathcal{T}$ in the category $\mathop{\mathrm{Mod}}A$ of left modules over a ring $A$. We introduce a new condition on $\mathcal{T}$: weak stability. Our first main theorem is that when $A$ is commutative, an ideal $\mathfrak{a}$ in $A$ is weakly proregular if and only if the corresponding torsion class $\mathcal{T}$ in $\mathop{\mathrm{Mod}}A$ is weakly stable.
 
-    <p>It turns out that when the ring $A$ is noncommutative, one must impose two more conditions on the torsion class $\mathcal{T}$: quasi-compactness and finite dimensionality (these are new names for old conditions). We prove that for a torsion class $\mathcal{T}$ that is weakly stable, quasi-compact and finite dimensional, the right derived $\mathcal{T}$-torsion functor is isomorphic to a left derived tensor functor. This result involves derived categories of bimodules. Some examples will be given.
+    <p>It turns out that when the ring $A$ is non-commutative, one must impose two more conditions on the torsion class $\mathcal{T}$: quasi-compactness and finite dimensionality (these are new names for old conditions). We prove that for a torsion class $\mathcal{T}$ that is weakly stable, quasi-compact and finite dimensional, the right derived $\mathcal{T}$-torsion functor is isomorphic to a left derived tensor functor. This result involves derived categories of bimodules. Some examples will be given.
 
-    <p>The third main theorem is the noncommutative MGM equivalence, under the same assumptions on $\mathcal{T}$. Finally, there is a theorem about derived left-sided and right-sided torsion for complexes of bimodules. This last theorem is a generalization of a result of Van den Bergh from 1997, and it corrects an error in a paper of Yekutieli-Zhang from 2003.
+    <p>The third main theorem is the non-commutative MGM equivalence, under the same assumptions on $\mathcal{T}$. Finally, there is a theorem about derived left-sided and right-sided torsion for complexes of bimodules. This last theorem is a generalization of a result of Van den Bergh from 1997, and it corrects an error in a paper of Yekutieli-Zhang from 2003.
 
-    <p>We expect that the approach outlined in this talk will open up the way to a useful theory of rigid dualizing complexes in the arithmetic noncommutative setting (namely without a base field).
+    <p>We expect that the approach outlined in this talk will open up the way to a useful theory of rigid dualizing complexes in the arithmetic non-commutative setting (namely without a base field).
 
     <p>The work above is joint with Rishi Vyas.
