@@ -64,7 +64,7 @@ kaledin:
   title: How to glue derived categories
   speaker: kaledin
   abstract: >
-    <p>It is well-known that one cannot glue triangulated categories unless they are equipped with some enhancement. In practice, people use either DG enhancement, or the machinery of stable infinity-categories. Unfortunately, for quite a few applications, DG enhancements are not flexible enough, while infinity-categories are much too heavy. We are going to sketch an intermediate approach based on the notion of a "stable model pair", and show how it can be applied to practical problems such as deformations of abelian categories.
+    <p>It is well-known that one cannot glue triangulated categories unless they are equipped with some enhancement. In practice, people use either DG enhancement, or the machinery of stable infinity-categories. Unfortunately, for quite a few applications, DG enhancements are not flexible enough, while infinity-categories are much too heavy. We are going to sketch an intermediate approach based on the notion of a “stable model pair”, and show how it can be applied to practical problems such as deformations of abelian categories.
 
 
 kapranov:
@@ -78,7 +78,7 @@ krause:
   title: Local duality for representations of finite group schemes
   speaker: krause
   abstract: >
-    <p>The modular representations of a finite group scheme enjoy a Gorenstein property which implies a "local duality" for the representations supported at a point of the projective variety of the cohomology ring. To explain this new type of duality is the aim of my talk. All this is based on recent work with D. Benson, S. Iyengar, and J. Pevtsova.
+    <p>The modular representations of a finite group scheme enjoy a Gorenstein property which implies a “local duality” for the representations supported at a point of the projective variety of the cohomology ring. To explain this new type of duality is the aim of my talk. All this is based on recent work with D. Benson, S. Iyengar, and J. Pevtsova.
 
 
 kuznetsov:
@@ -138,7 +138,7 @@ segal:
   title: Homological projective duality for Pfaffians
   speaker: segal
   abstract: >
-    <p>A Pfaffian variety is a space of anti-symmetric matrices with some fixed upper bound on the rank, and the projective dual of a Pfaffian variety is a another Pfaffian variety. Kuznetsov conjectured that these varieties should have non-commutative resolutions, with the derived categories of projectively-dual pairs satisfying a nice relationship called "homological projective duality". I will discuss the construction of these non-commutative resolutions (which is due to Špenko and Van den Bergh) and a proof that they do indeed satisfy the duality. Our proof is motivated by a physical duality of non-abelian GLSMs, proposed by Hori. This is joint work with Jørgen Rennemo.
+    <p>A Pfaffian variety is a space of anti-symmetric matrices with some fixed upper bound on the rank, and the projective dual of a Pfaffian variety is a another Pfaffian variety. Kuznetsov conjectured that these varieties should have non-commutative resolutions, with the derived categories of projectively-dual pairs satisfying a nice relationship called “homological projective duality”. I will discuss the construction of these non-commutative resolutions (which is due to Špenko and Van den Bergh) and a proof that they do indeed satisfy the duality. Our proof is motivated by a physical duality of non-abelian GLSMs, proposed by Hori. This is joint work with Jørgen Rennemo.
 
 sierra:
   title: Non-commutative minimal surfaces
@@ -146,7 +146,7 @@ sierra:
   abstract: >
     <p>In the classification of (commutative) projective surfaces, one first classifies minimal models for a given birational class, and then shows that any surface can be blown down at a finite number of curves to obtain a minimal model.
 
-    <p>Artin has proposed a similar programme for non-commutative surfaces (that is, domains of Gelfand&ndash;Kirillov dimension&nbsp;3).  In the generic "rational" case of rings birational to a Sklyanin algebra, the likely candidates for minimal models are the Sklyanin algebra itself and Van den Bergh's quadric surfaces. We show, using our previously developed non-commutative version of blowing down, that these algebras are minimal in a very strong sense: given a Sklyanin algebra or quadric $R$, if $S$ is a connected graded, noetherian overring of $R$ with the same graded ring of fractions, then $S=R$.
+    <p>Artin has proposed a similar programme for non-commutative surfaces (that is, domains of Gelfand&ndash;Kirillov dimension&nbsp;3).  In the generic “rational” case of rings birational to a Sklyanin algebra, the likely candidates for minimal models are the Sklyanin algebra itself and Van den Bergh's quadric surfaces. We show, using our previously developed non-commutative version of blowing down, that these algebras are minimal in a very strong sense: given a Sklyanin algebra or quadric $R$, if $S$ is a connected graded, noetherian overring of $R$ with the same graded ring of fractions, then $S=R$.
 
     <p>This is joint work with Rogalski and Stafford.
 
@@ -162,7 +162,7 @@ stafford:
   title: Non-commutative rational surfaces and subalgebras of Sklyanin algebras
   speaker: stafford
   abstract: >
-    <p>One of the major open problems in non-commutative algebraic geometry is to classify non-commutative surfaces (or domains of Gelfand&ndash;Kirillov dimension 3).  The non-commutative projective planes are known by the classic Artin&ndash;Tate&ndash;Van den Bergh theorem, with the "generic" planes been given by the Sklyanin algebras Skl. But can one classify all generic rational surfaces, (or algebras birational to Skl)? Subalgebras of Skl that are maximal orders have been classified in recent work with Rogalski and Sierra, using a version of blowing-up, which we will discuss in the first part of this lecture. The next step is to understand blowing down, which will be covered in the second half of the lecture. This will also be used in Sierra’s lecture on minimal models.
+    <p>One of the major open problems in non-commutative algebraic geometry is to classify non-commutative surfaces (or domains of Gelfand&ndash;Kirillov dimension 3).  The non-commutative projective planes are known by the classic Artin&ndash;Tate&ndash;Van den Bergh theorem, with the “generic” planes been given by the Sklyanin algebras Skl. But can one classify all generic rational surfaces, (or algebras birational to Skl)? Subalgebras of Skl that are maximal orders have been classified in recent work with Rogalski and Sierra, using a version of blowing-up, which we will discuss in the first part of this lecture. The next step is to understand blowing down, which will be covered in the second half of the lecture. This will also be used in Sierra’s lecture on minimal models.
 
     <p>This is joint work with Rogalski and Sierra.
 
@@ -197,7 +197,7 @@ toen:
 wemyss:
   title: Affine actions from 3-fold flops, and tilings of the plane.
   speaker: wemyss
-  abstract: Iterating flops (via cluster theory) gives a "birational geometry" action on the derived category of 3-folds, and I will explain how to understand this group from the viewpoint of the topology of hyperplane arrangements.  They are very similar to pure braid groups.  However, the expectation, now proved in many cases, is that this action be extended to an “affine pure braid group” acting on the derived category.  I will explain some Coxeter combinatorics background behind this, which is completely independent of the geometric motivation.  The remarkable thing is that the geometry predicts unseen algebraic phenomenon, like an affine version of the symmetries of the pentagon (which does not exist!), and most of the talk will be motivated by the simplest case of two intersecting flopping curves.  Towards the end I will explain how this case is related to certain tilings of the plane, and indeed every choice of two nodes of a Dynkin diagram induces a tiling of the plane.  These tilings seem to be new, and are somewhat mysterious.
+  abstract: Iterating flops (via cluster theory) gives a “birational geometry” action on the derived category of 3-folds, and I will explain how to understand this group from the viewpoint of the topology of hyperplane arrangements.  They are very similar to pure braid groups.  However, the expectation, now proved in many cases, is that this action be extended to an “affine pure braid group” acting on the derived category.  I will explain some Coxeter combinatorics background behind this, which is completely independent of the geometric motivation.  The remarkable thing is that the geometry predicts unseen algebraic phenomenon, like an affine version of the symmetries of the pentagon (which does not exist!), and most of the talk will be motivated by the simplest case of two intersecting flopping curves.  Towards the end I will explain how this case is related to certain tilings of the plane, and indeed every choice of two nodes of a Dynkin diagram induces a tiling of the plane.  These tilings seem to be new, and are somewhat mysterious.
 
 
 yekutieli:
