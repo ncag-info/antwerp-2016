@@ -195,7 +195,7 @@ toen:
 
 
 wemyss:
-  title: Affine actions from 3-fold flops, and tilings of the plane.
+  title: Affine actions from 3-fold flops, and tilings of the plane
   speaker: wemyss
   abstract: Iterating flops (via cluster theory) gives a “birational geometry” action on the derived category of 3-folds, and I will explain how to understand this group from the viewpoint of the topology of hyperplane arrangements.  They are very similar to pure braid groups.  However, the expectation, now proved in many cases, is that this action be extended to an “affine pure braid group” acting on the derived category.  I will explain some Coxeter combinatorics background behind this, which is completely independent of the geometric motivation.  The remarkable thing is that the geometry predicts unseen algebraic phenomenon, like an affine version of the symmetries of the pentagon (which does not exist!), and most of the talk will be motivated by the simplest case of two intersecting flopping curves.  Towards the end I will explain how this case is related to certain tilings of the plane, and indeed every choice of two nodes of a Dynkin diagram induces a tiling of the plane.  These tilings seem to be new, and are somewhat mysterious.
 

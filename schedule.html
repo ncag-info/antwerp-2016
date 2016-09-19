@@ -21,7 +21,9 @@ permalink: /schedule
         <dd>to be determined</dd>
       {% endif %}
 
-      <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)</dd>
+      <dd class="speaker"><span class="name">{{ speaker.name }}</span> (<span class="affiliation">{{ speaker.affiliation }}</span>)
+      {% if talk.speaker == "wemyss" %}(<a href="wemyss.pdf">slides</a>){% endif %}
+      </dd>
     {% elsif slot.other %}
       <dd>{{ slot.other }}
     {% else %}

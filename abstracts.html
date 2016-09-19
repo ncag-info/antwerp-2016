@@ -22,6 +22,8 @@ layout: default
     {% if talk.abstract %}
       <blockquote>{{ talk.abstract }}</blockquote>
     {% endif %}
+
+    {% if talk.speaker == "wemyss" %}<p><a href="wemyss.pdf">slides</a>{% endif %}
   </section>
   <hr>
 {% endfor %}
